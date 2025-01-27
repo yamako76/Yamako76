@@ -1,16 +1,15 @@
-## Hi there 👋
+### yamaya !
 
-<!--
-**Yamako76/Yamako76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yamako76&show_icons=ture&theme=vue" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamako76&layout=compact&show_icons=true&theme=vue" />
+</p>
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yamako76&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamako76&theme=vue)
+
+<!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/GWJOEQO" target="_blank" rel="noopener noreferrer"><img alt="GWJOEQOのLAPRASでのスコアは次の通りです: エンジニアリング: 3.71 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.45 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.71&b=2.85&i=3.45&b1=%2334495e&b2=%2341b883&i1=%2341b883&i2=%239effd3&l=ja" width="400" ></a>
+Last Updated on 1/27/2025, 3:46:01 AM</p>
+<!--END_SECTION:lapras-card-->
